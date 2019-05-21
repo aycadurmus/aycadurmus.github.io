@@ -1,0 +1,25 @@
+**Portolio credits:
+Kaan Ünlü
+Sedef Topçuoðlu
+Ýpek Girgin
+Ayça Durmuþ
+
+**Image credits:
+Transparent evil mayo: https://www.reddit.com/r/cutouts/comments/60d3sq/a_jar_of_mayonnaise_shameless_product_placement/
+Bread, sweet bread: http://www.stickpng.com/img/food/bread/loaf-artisan-bread
+Bg for Ayca:https://tr.pinterest.com/pin/153896512248381585/?lp=true
+Bg for Ýpek:http://backgrounddownload.com/purple-pastel-background-patterns-2/
+Bg for Sedef:https://www.shutterstock.com/tr/image-vector/seamless-pattern-doodles-cars-vector-black-276969155?src=UIIbTva5SZcSGgEb-YKb0g-1-46
+Bg for Kaan: TO BE UPDATED!!
+Bg for Main page:https://koduck.tumblr.com/post/46788794969/some-people-have-asked-for-the-backgrounds-i-use
+
+**Cursor credits:
+Ýpek:http://www.cursors-4u.com/cursor/2009/10/14/animated-purple-gitter-skull.html
+Kaan:http://www.cursors-4u.com/cursor/2011/12/12/silver-sword-legend-of-zelda.html
+Sedef:http://www.cursors-4u.com/cursor/2006/03/04/foo104.html
+Ayça:http://www.cursors-4u.com/cursor/2009/09/20/flower-58.html
+
+Lightbox plugin:
+Taken from one of the examples from Moodle.
+
+Menu plugin: https://freshdesignweb.com/3-level-responsive-drop-down-navigation-menu-jquery-css3/

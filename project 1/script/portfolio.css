@@ -1,0 +1,36 @@
+div#container{
+
+  display:flex;
+  align-items: center;
+}
+div#iconcontain{
+  margin:auto;
+  width: 300px;
+}
+#iconcontain:hover .hovery{
+opacity: 1;
+}
+#iconcontain{
+  transition: .5s;
+}
+.hovery{
+  opacity: 0;
+  background-color: #FF69B4	;
+}
+img.img{
+  width:50%;
+  display: none;
+  padding:20pt;
+}
+img#icon{
+  width: 300px;
+}
+p{
+  text-align: center;
+  transform: 50% 50%;
+  font-size: 10pt;
+  font-family: fantasy;
+}
+h1{
+  width: 100%;
+}
