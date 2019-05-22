@@ -21,7 +21,7 @@ $(document).ready(function(){
     if (time<5)
     {result*=2;}
 
-    var text="You commissioned from "+artist+". Your commission will cost "+result+". Thank you for your commission!";
+    var text="You commissioned from "+artist+". Your commission will cost "+result+" TL. Thank you for your commission!";
     //alert(text);
     $("#res").html(text);
   });
