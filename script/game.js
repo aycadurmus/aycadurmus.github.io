@@ -20,28 +20,28 @@ $ (function(){
     case 65: $("#sedoimg").css('left',sedoset.left -= 10);
       if (sedoset.left < borset.left)
         {
-          $("#sedoimg").css('left',sedoset.left += 10);
+          $("#sedoimg").css('left',borset.left += 10);
         }
     break; //left
 
     case 87: $("#sedoimg").css('top',sedoset.top -= 10);
       if (sedoset.top < borset.top)
       {
-        $("#sedoimg").css('top',sedoset.top += 10);
+        $("#sedoimg").css('top',borset.top += 10);
       }
     break; //up
 
-    case 68: $("#sedoimg").css('left',sedoset.left += 10);
+    case 68: $("#sedoimg").css('left',borset.left += 10);
     if (sedoset.left > borright)
     {
-      $("#sedoimg").css('left',sedoset.left -= 10);
+      $("#sedoimg").css('left',borset.left -= 10);
     }
     break; //right
 
     case 83: $("#sedoimg").css('top',sedoset.top += 10);
     if (sedoset.top > bordown)
     {
-      $("#sedoimg").css('top',sedoset.top -= 10);
+      $("#sedoimg").css('top',borset.top -= 10);
     }
     break; //down
   }
